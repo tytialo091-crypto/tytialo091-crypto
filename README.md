@@ -22,6 +22,7 @@ I'm a software development student who enjoys building things, breaking them, fi
 
 My main interests are:
 
+- Vibe Coder
 - Web Development
 - Backend Development
 - Game Development
