@@ -145,45 +145,7 @@ Software Engineering
 
 ---
 
-## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=tytialo091&theme=tokyonight&hide_border=true&background=1a1b27"
-    width="97%"
-    alt="GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tytialo091&theme=tokyo-night&bg_color=1a1b27&hide_border=true"
-    width="97%"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
----
-
-## Contribution Snake
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/tytialo091/tytialo091/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/tytialo091/tytialo091/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/tytialo091/tytialo091/output/github-snake.svg"
-    width="100%"
-    alt="GitHub Contribution Snake"
-  />
-</picture>
-
----
 
 ## Vibes
 
